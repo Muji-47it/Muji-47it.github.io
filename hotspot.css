@@ -34,8 +34,7 @@
     border: solid;
     border-radius: 30px;
 }
-.contborder
-:hover
+.contborder:hover
 {
     color: black;
     font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
@@ -45,8 +44,13 @@
     list-style: none;
     margin-left: 40px;
     margin-top: 10px;
+    background-color: yellow;
 }
-
+.cont:hover
+{
+    background-color: black;
+    color: yellowgreen;
+}
 .leftside {
     float: left;
     background-color: rgb(255, 255, 255);
