@@ -1,0 +1,124 @@
+.logo {
+    float: left;
+    margin-left: 40%;
+}
+
+.picon {
+    height: 33px;
+    margin-left: 280px;
+    margin-top: 25px;
+}
+
+.no {
+    float: right;
+    margin-right: 12%;
+    margin-top: 2%;
+    font-size: larger;
+}
+
+.navcont {
+    background-color: rgb(3, 37, 37);
+    color: white;
+    height: 50px;
+    text-align: center;
+    width: 80%;
+    float: left;
+    padding-left: 300px;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+.contborder {
+    background-color: yellow;
+    height: 50px;
+    width: 875px;
+    border: solid;
+    border-radius: 30px;
+}
+.contborder
+:hover
+{
+    color: black;
+    font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+.cont {
+    float: left;
+    list-style: none;
+    margin-left: 40px;
+    margin-top: 10px;
+}
+
+.leftside {
+    float: left;
+    background-color: rgb(255, 255, 255);
+    width: 70%;
+    margin-left: 240px;
+    margin-top: 50px;
+}
+
+.bodyheading {
+    font-size: 55px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    text-align: center;
+    padding: 20px;
+}
+
+.fstpic {
+    width: 100%;
+    margin-top: 50px;
+}
+
+.lowerbody {
+    width: 75%;
+    background-color: rgb(255, 255, 255);
+    margin-left: 110px;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+.thisyear {
+    font-size: 40px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+.lbodyp {
+    font-size: 20px;
+}
+
+.valleyname {
+    font-size: 40px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+.valleypic {
+    width: 100%;
+}
+
+strong {
+    color: rgb(0, 177, 177);
+}
+
+footer {
+    height: 400px;
+    background-color: rgb(3, 37, 37);
+    margin-top: 6960px;
+    padding-top: 60px;
+}
+
+.footerp {
+    color: rgb(225, 205, 205);
+    font-size: 20px;
+    width: 150px;
+    margin-left: 600px;
+}
+
+.footerp2 {
+    color: rgb(225, 205, 205);
+    font-size: 15px;
+    width: 150px;
+    margin-left: 600px;
+}
+
+.footerdes {
+    color: rgb(225, 205, 205);
+    padding: 50px;
+    padding-bottom: 0px;
+}
